@@ -2,7 +2,7 @@ package com.ricko.cookbook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
+/*
 @SpringBootTest
 class CookbookApplicationTests {
 
@@ -10,4 +10,4 @@ class CookbookApplicationTests {
     void contextLoads() {
     }
 
-}
+}*/
